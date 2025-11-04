@@ -57,3 +57,4 @@ ORDER BY fm.birth_date; -- Het sorteert nu op datums & bij order by 4; sorteert 
 
 -- Oefening 6 --
 
+
