@@ -16,7 +16,7 @@ FROM sections;
 
 -- oef 2 SA
 SELECT max(cost)
-FROM courses
+FROM courses;
 
 -- oef 3 SA
 SELECT min(enroll_date) first, max(enroll_date) "Most Recent"
@@ -156,4 +156,9 @@ HAVING count(*) > 5;
 SELECT c.course_no, description
 FROM courses c
 LEFT JOIN sections n ON c.course_no = n.course_no
-WHERE c.course_no IS NOT NULL
+WHERE n.course_no IS NULL
+ORDER BY n.course_no;
+
+-- oef 21 SA
+SELECT description, prerequisite FROM courses
+LEFT JOIN
