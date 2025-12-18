@@ -10,11 +10,11 @@ WHERE prerequisite = (SELECT course_no
 -- Geef cursusnr en beschrijving van cursussen die gedoceerd worden door Fernand Hanks.
 -- Zuivere subquery schrijven!
 SELECT *
-FROM sections
+FROM courses
 WHERE course_no IN (
-    SELECT *
-    FROM courses
-    WHERE (
-        SELECT instructor_id, first_name, last_name
+    SELECT course_no
+    FROM sections
+    WHERE instructor_id IN (
+        SELECT instructor_id
         FROM instructors
         WHERE lower(concat_ws(' ', first_name, last_name)) = 'fernand hanks'));

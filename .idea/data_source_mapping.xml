@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/92081c49-1547-4694-8686-c5febcebf759/console.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
+    <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW2.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW3.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW4.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW5.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningenWeek9.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
+    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningen/StudentAdminOefeningenWeek9.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
+    <file url="file://$PROJECT_DIR$/exercises/part10.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
+    <file url="file://$PROJECT_DIR$/exercises/part9.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
     <file url="file://$PROJECT_DIR$/scripts/_pg_FILL_SA.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
     <file url="file://$PROJECT_DIR$/theory/04_Inner_NonEqui_Self_Join.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
   </component>

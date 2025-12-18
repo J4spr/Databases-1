@@ -5,14 +5,7 @@
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW3.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW4.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW5.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningenWeek9.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/scripts/_pg_CRE_ENTERPRISE_EN.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/scripts/_pg_CRE_SA.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/scripts/_pg_ENTERPRISE_BIG_EN.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/scripts/_pg_FILL_ENTERPRISE_EN.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/scripts/_pg_FILL_SA.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/theory/02_0_SELECT_basics_and_fetch.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/theory/04_Inner_NonEqui_Self_Join.sql" dialect="PostgreSQL" />
-    <file url="PROJECT" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/part10.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/part9.sql" dialect="PostgreSQL" />
   </component>
 </project>
