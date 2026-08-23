@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/.idea/queries/Query.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW2.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW3.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW4.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/ExamenP1/examenW5.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningen/StudentAdminW10.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningen/StudentAdminW7.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningen/StudentAdminW8.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/StudentAdminOefeningen/StudentAdminW9.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/part10.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/exercises/part9.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/scripts/_pg_FILL_SA.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
-    <file url="file://$PROJECT_DIR$/theory/04_Inner_NonEqui_Self_Join.sql" value="92081c49-1547-4694-8686-c5febcebf759" />
+    <file url="file://$PROJECT_DIR$/exercises/Examenp5/week2.sql" value="f345e484-2b97-42e4-a951-260c4d29b7f3" />
+    <file url="file://$PROJECT_DIR$/exercises/Examenp5/week3.sql" value="f345e484-2b97-42e4-a951-260c4d29b7f3" />
+    <file url="file://$PROJECT_DIR$/exercises/Examenp5/week4.sql" value="f345e484-2b97-42e4-a951-260c4d29b7f3" />
+    <file url="file://$PROJECT_DIR$/exercises/Examenp5/week5.sql" value="f345e484-2b97-42e4-a951-260c4d29b7f3" />
+    <file url="file://$PROJECT_DIR$/exercises/Examenp5/week7.sql" value="f345e484-2b97-42e4-a951-260c4d29b7f3" />
+    <file url="file://$PROJECT_DIR$/init.sql" value="f345e484-2b97-42e4-a951-260c4d29b7f3" />
   </component>
 </project>

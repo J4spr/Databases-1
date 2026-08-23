@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Create SA" type="DatabaseScript">
+    <script-file value="$PROJECT_DIR$/scripts/_pg_CRE_SA.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="f345e484-2b97-42e4-a951-260c4d29b7f3" namespace="database/&quot;studentadmin&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
