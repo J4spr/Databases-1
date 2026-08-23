@@ -51,5 +51,31 @@ CREATE TABLE IF NOT EXISTS courses
     created_date  date,
     modified_by   varchar(30),
     modified_date date,
-    course_no numeric(8)
+    course_no     numeric(8)
+);
+
+
+CREATE TABLE IF NOT EXISTS sections
+(
+    course_no       numeric(8),
+    section_no      numeric(3),
+    start_date_time date,
+    location        varchar(50),
+    instructor_id   numeric(8),
+    capacity        numeric(3),
+    created_by      varchar(30),
+    modified_by     varchar(30),
+    modified_date   date,
+    section_id      numeric(8)
+        CONSTRAINT pk_section_id PRIMARY KEY
+);
+
+CREATE TABLE IF NOT EXISTS enrollments
+(
+    enroll_date date,
+    final_grade numeric(3),
+    created_by  varchar(30),
+    created_date date,
+    modified_by varchar(30),
+    modified_date date
 );
